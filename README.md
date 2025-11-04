@@ -1,0 +1,3 @@
+This was the second project I completed during my internship. The main task was to select several small-cap stocks that we believed had strong growth potential but were undervalued at the time. We then built a portfolio and analyzed its performance using historical stock data through time series analysis to evaluate its investment prospects.
+
+To optimize the portfolio, we applied the Black–Litterman model together with Markowitz portfolio optimization to determine the optimal asset allocation. In addition, we incorporated several technical indicators — SMA, EMA, MACD, and RSI — to support our trading simulations and investment strategy recommendations.
